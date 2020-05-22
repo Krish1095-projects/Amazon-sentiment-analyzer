@@ -1,2 +1,2 @@
 #### KMDB
-- A simple repo for movies databases
+- A simple repo for movies database
