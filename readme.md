@@ -1,4 +1,4 @@
-#### SENTIMENT ANALYZER FOR LENOBO K9 - AMAZON REVIEWS 
+#### SENTIMENT ANALYZER FOR LENOVO K9 - AMAZON REVIEWS 
 
 # Tools and technologies used:
 - programming language : python 3.8.3
